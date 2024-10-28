@@ -17,7 +17,7 @@ This is a sample microservice demonstrating how to create a simple microservice 
 
 ## Running
 
-For starting the program, open the project inside your IDE, replace the **<FILE_PATH_IN_YOUR_SYSTEM>** inside the **src/main/resources/application.properties** with a path in your system. Then go to the **src/main/java/MicroserviceTwoApplication.java** and run the class.
+For starting the program, open the project inside your IDE, replace the **<FILE_PATH_IN_YOUR_SYSTEM>** inside the **src/main/resources/application.properties** with a path in your system. Then go to the **src/main/java/MicroserviceONEApplication.java** and run the class.
 
 ### usefull links after running the programm:
 
